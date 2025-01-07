@@ -19,10 +19,10 @@
 
 ---
 
-## 🚀 **Current Work & Experience**
+## 🚀 **Experience**
 
-### 💼 **Data Analyst Intern** at **JITSIE**, IIT Madras (Since May 2024)
-Currently working on transforming raw data into actionable business insights, using a range of tools and techniques to improve performance and decision-making across departments.
+### 💼 **Data Analyst Intern** at **JITSIE**, IIT Madras
+Worked on transforming raw data into actionable business insights, using a range of tools and techniques to improve performance and decision-making across departments.
 
 ### 🏢 **Past Experience**: Business Analyst at **Bhoomi Enterprises**
 Optimized inventory processes and identified market trends that resulted in a 20% improvement in stock management and a significant increase in regional sales. 
